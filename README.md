@@ -21,22 +21,28 @@ This is a simple Todo application built with React. It allows users to perform C
 
    ```bash
    git clone https://github.com/rajiarazz/TodoApp.git
+
 2. Navigate into the project directory:
 
-  ```bash
+   ```bash
    cd TodoApp
+
 3. Clone the repository:
 
    ```bash
    npm install
+
 4. Run the development server:
 
    ```bash
    npm start
+   
 5. Open your web browser and visit http://localhost:3000 to view the app.
 
-#Demo
+# Demo
 Link to live demo - https://rajiarazz.github.io/TodoApp/
 
-#Screenshots
-![image](https://github.com/rajiarazz/TodoApp/assets/85434007/cc696251-8428-46f8-bfe4-e5f61d0f61f0)
+# Screenshots
+
+![image](https://github.com/rajiarazz/TodoApp/assets/85434007/2635710b-4bb2-4d35-952c-98ff927cf54c)
+
